@@ -1,5 +1,8 @@
-Milestone 1
+Instruction
 
+Download Xcode on macos and the source code. Open it with xcode and you could run our project :)
+
+Milestone 1
 
 Motivation 
 
